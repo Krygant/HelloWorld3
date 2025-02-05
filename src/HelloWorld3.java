@@ -4,4 +4,3 @@ public class HelloWorld3 {
         System.out.println("новая строка!");
     }
 }
-//Комментарий для вставки в репозиторий
